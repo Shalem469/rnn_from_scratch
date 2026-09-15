@@ -34,3 +34,9 @@ x₃ → RNN → h₃
         Output
            ↓
       Prediction
+
+## Training Loss
+
+The model successfully learns the numerical sequence, with the training loss decreasing rapidly during training.
+
+![RNN Training Loss](training_loss.png)

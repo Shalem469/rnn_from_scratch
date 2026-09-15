@@ -235,5 +235,6 @@ plt.plot(loss_history)
 plt.xlabel("Training Checkpoint")
 plt.ylabel("Loss")
 plt.title("RNN Training Loss")
+plt.savefig("training_loss.png")
 plt.show()
 
